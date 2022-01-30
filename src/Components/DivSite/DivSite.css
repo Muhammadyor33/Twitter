@@ -1,0 +1,518 @@
+.image_loading {
+    margin: 60% 0 60% 35%;
+}
+
+.div_page_strongw {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 0;    
+    color: white;    
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    transition: ease 1s;
+    margin: 0px 20px;
+}
+
+.div_page_strongw {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 0;    
+    color: white;    
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    transition: ease 1s;
+    margin: 0px 20px;
+}
+
+.div_bg_color {
+    color: white;
+    background: black;
+    transition: ease 1s;
+}
+
+.div_site_button {
+    margin: 0;
+    padding: 0;
+    background: transparent;
+    border: none;
+}
+
+.div_site_box_border {
+    margin: 0;
+    padding: 0;
+    margin-right: 20px;
+    margin-left: 20px;
+    border: 1px solid #D8D8D8;
+    border-top: none;
+}
+
+.div_site_header_box {
+    margin: 0;
+    padding: 0;
+    width: 867px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;    
+    padding: 20px;  
+}
+
+.div_site_header_title {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 0;
+    color: #000;
+    transition: ease 1s;
+}
+
+.div_site_header_titlew {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 0;
+    color: #fff;
+    transition: ease 1s;
+}
+
+.div_site_select {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 0;
+    padding: 5px 30px 5px 30px;
+    color: #5C6C79;
+    background: #EFF3F4;
+    border: 1px solid #EFF3F4;
+    border-radius: 31px;
+    margin-right: 40px;
+}
+
+.div_site_option {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 0;
+    padding: 5px 30px 5px 30px;
+    background: #EFF3F4;
+    border: 1px solid #EFF3F4;
+}
+
+.div_site_main_box {
+    margin: 0;
+    padding: 0;
+    width: 867px;
+    margin-bottom: -2.7%;
+}
+
+.dsms:nth-child(1) {
+    margin-top: -3.1%;
+}
+
+.div_site_main_box_boxx {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin-bottom: 25px;    
+}
+
+.div_site_main_box_image {
+    margin-right: 15px;
+    border-radius: 50%;
+}
+
+.div_site_main_box_input {
+    margin: 0;
+    padding: 10px;
+    border: transparent;
+    width: 100%;
+    border-radius: 0;
+    background-color: transparent;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 0;
+    color: #828282;
+    display: block;
+    transition: ease 1s;
+}
+
+.div_site_main_box_inputw {
+    margin: 0;
+    padding: 10px;
+    border: transparent;
+    width: 100%;
+    background-color: transparent;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 0;
+    color: #fff;
+    display: block;
+    transition: ease 1s;
+}
+
+.div_site_main_box_images {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.div_site_main_box_images_list {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin-left: 79px;
+}
+
+.div_site_main_box_images_item {
+    margin-right: 23px;
+}
+
+.div_site_main_box_images_link {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.div_site_main_box_images_btn {
+    background: #1DA1F2;
+    border-radius: 120px;
+    border: 1px solid #1DA1F2;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 100%;
+    color: #FFF;
+    margin-top: -6.5%;
+    padding: 15px 30px;
+    transition: ease 1s;
+}
+
+.div_site_main_box_images_btnw {
+    background: white;
+    border-radius: 120px;
+    border: 1px solid white;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 100%;
+    color: #1DA1F2;
+    margin-top: -6.5%;
+    padding: 15px 30px;
+    transition: ease 1s;
+}
+
+.div_site_main_box_images_btn:hover {
+    opacity: 0.4;
+    box-shadow: 0px 10px 20px white;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    transition: ease 1s;
+}
+
+.div_site_main_box_images_btnw:hover {
+    opacity: 0.4;
+    color: white;
+    flex: none;
+    box-shadow: 0px 10px 20px white;
+    order: 0;
+    flex-grow: 0;
+    transition: ease 1s;
+}
+
+.div_site_main_section {
+    margin: 0;
+    padding: 0;
+    width: 847px;
+    padding: 40px 20px 20px 20px;
+}
+
+.div_site_main_section_box {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin-bottom: 20px;
+    margin-top: -20px;
+}
+
+.div_site_main_section_link {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.div_site_main_section_link_image {
+    margin-right: 15px;
+    border-radius: 50%;
+    margin-top: 25%;
+}
+
+.div_site_main_section_box_texts {
+    margin: 0;
+    padding: 0;
+    width: 749px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 19px;
+}
+
+.div_site_main_section_box_texts_lh {
+    margin: 0;
+    padding: 0;
+    width: 749px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 19px;
+}
+
+.div_site_main_section_box_text {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.div_site_main_section_link_lh {
+    margin-top: -15px;
+}
+
+.div_site_main_section_box_text_title {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 0;
+    color: #000;
+    margin-right: 10px;
+    transition: ease 1s;
+}
+
+.div_site_main_section_box_text_titlew {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 0;
+    color: white;
+    margin-right: 10px;
+    transition: ease 1s;
+}
+
+.div_site_main_section_box_text_title:hover {
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.div_site_main_section_link_text {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 0;
+    color: #000;
+    transition: ease 1s;
+    margin-left: 10px;
+}
+
+.div_site_main_section_link_textw {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 0;
+    color: white;
+    transition: ease 1s;
+    margin-left: 10px;
+}
+
+.div_site_main_section_link_text:hover {
+    opacity: 0.6;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    transition: ease 1s;
+}
+
+.div_site_main_section_box_text_heading {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 0;
+    color: #000;
+    transition: ease 1s;
+}
+
+.div_site_main_section_box_text_headingw {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 0;
+    color: white;
+    transition: ease 1s;
+}
+
+.div_site_main_section_box_text_heading_lh {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #000;
+    margin-top: -12px;
+    transition: ease 1s;
+}
+
+.div_site_main_section_box_text_heading_lhw {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: white;
+    margin-top: -12px;
+    transition: ease 1s;
+}
+
+
+.div_site_main_section_box_text_heading:hover {
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    transition: ease 1s;
+}
+
+.div_site_main_section_box_text_headingw:hover {
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    transition: ease 1s;
+}
+
+.div_site_main_section_box_two_list {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin-left: 78px;
+}
+
+.div_site_main_section_box_two_item {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin-right: 100px;
+}
+
+.div_site_main_section_box_two_text {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 0;
+    color: #536471;
+    margin-left: 10px;
+}
+
+.div_site_main_section_box_two_textw {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 0;
+    color: #fff;
+    margin-left: 10px;
+}
+
+.div_site_main_section_box_two_text_style {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 0;
+    color: #0CB345;
+    margin-left: 10px;
+}
+
+.div_site_main_section_box_two_text_style_2 {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 0;
+    color: #EF1C5C;
+    margin-left: 10px;
+}
+
+.div_site_main_section_box_two_text:hover {
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}

@@ -1,0 +1,296 @@
+.div_follow_boxx {
+    margin-bottom: -10%;
+}
+
+.div_follow_input {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    padding: 15px 137px 16px 48px;
+    color: #5C6C79;
+    background: #EFF3F4;
+    border: 1px solid #EFF3F4;
+    border-radius: 31px;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+.div_follow_search_image {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: 17px;
+    right: 18px;
+    bottom: 18px;
+    left: 22px;
+    z-index: 100;
+    margin-bottom: 58px;
+}
+
+.div_follow_box {
+    margin: 0;
+    padding: 0;
+    background: #F7F9F9;
+    border-radius: 10px;
+    padding: 27px 20px 30px 20px;
+    margin-bottom: 20px;
+}
+
+.div_follow_ts_box {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 35px;
+    width: 335px;
+}
+
+.div_follow_title {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 24px;
+    color: #000;
+}
+
+.div_follow_link {
+    margin: 0;
+    padding: 0;
+}
+
+.div_follow_list {
+    margin-bottom: 20px;
+}
+
+.div_follow_item {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: top;
+    justify-content: space-between;
+    width: 338px;
+}
+
+.div_follow_item:nth-child(2) {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.div_follow_item_box {
+    margin: 0;
+    padding: 0;
+    margin-right: 167px;
+}
+
+.div_follow_text {
+    margin: 0;
+    padding: 0;
+    color: #393B41;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 0;
+    margin-bottom: 25px;
+}
+
+.div_follow_text:hover {
+    opacity: 0.6;
+}
+
+.div_follow_heading {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 0;
+    color: #000;
+    margin-bottom: 25px;
+}
+
+.div_follow_text_link {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 100%;
+    color: #1DA1F2;
+}
+
+.div_follow_followers_box {
+    margin: 0;
+    padding: 0;
+    background: #F7F9F9;
+    border-radius: 10px;
+    padding: 37px 20px 30px 20px;
+    margin-bottom: 30px;
+}
+
+.div_follow_followers_title {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 0;
+    color: #000;
+    margin-bottom: 40px;
+}
+
+.div_follow_followers_item {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    width: 358px;
+    margin-bottom: 25px;
+}
+
+.div_follow_followers_box_text {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 0;
+    color: #000;
+    margin-bottom: 25px;
+    margin-top: 15px;
+}
+
+.div_follow_followers_text_link {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 0;
+    color: #000;
+}
+
+.div_follow_followers_box_mr {
+    margin: 0;
+    padding: 0;
+}
+
+.div_follow_followers_image {
+    border-radius: 50%;
+    margin-right: 5px;
+}
+
+.div_follow_box_h5a {
+    margin-right: 1%;
+}
+
+.div_follow_followers_text_link:hover {
+    opacity: 0.6;
+}
+
+.div_follow_followers_button {
+    margin: 0;
+    padding: 0;
+    background: #000;
+    border-radius: 50px;
+    border: 1px solid black;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 100%;
+    color: #FFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    padding: 10px 18px;
+    /* margin-left: -100px; */
+}
+
+.div_follow_link_box {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 10px;
+}
+
+.div_follow_links {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 21px;
+    color: #536471;
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+    margin-right: 15px;
+    transition: ease 1s;
+}
+
+.div_follow_linksw {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 21px;
+    color: #fff;
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+    margin-right: 15px;
+    transition: ease 1s;
+}
+
+.div_follow_links--active {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 21px;
+    color: #536471;
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+    margin: 0px 15px;
+    transition: ease 1s;
+}
+
+.div_follow_links--activew {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 21px;
+    color: #fff;
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+    margin: 0px 15px;
+    transition: ease 1s;
+}

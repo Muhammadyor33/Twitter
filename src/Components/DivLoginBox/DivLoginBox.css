@@ -1,0 +1,51 @@
+.div_login_box {
+    margin: 0;
+    padding: 0;
+    max-width: 490px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px;
+    margin-top: 10%;
+    background: #fff;
+    border: 1px solid #fff;
+    transition: ease 1s;
+}
+
+.div_login_box_2 {
+    margin: 0;
+    padding: 0;
+    max-width: 490px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px;
+    margin-top: 10%;
+    background: #0d012e;
+    border: 1px solid #0d012e;
+    transition: ease 1s;
+}
+
+.div_login_boxx {
+    margin: 0;
+    padding: 0;
+    max-width: 710px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px;
+    margin-top: 5%;
+    background: #fff;
+    border: 1px solid #fff;
+    transition: ease 1s;
+}
+
+.div_login_boxx_2 {
+    margin: 0;
+    padding: 0;
+    max-width: 710px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px;
+    margin-top: 5%;
+    background: #0d012e;
+    border: 1px solid #0d012e;
+    transition: ease 1s;
+}

@@ -1,0 +1,410 @@
+.login_box_iss {
+    margin: 0;
+    padding: 0;
+    width: 670px;
+    margin-bottom: 43px;
+    margin-left: 65%;
+}
+
+.login_box_image {
+    margin-left: 46%;
+    margin-bottom: 43px;
+}
+
+.login_selectt {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 0;
+    padding: 5px 15px 5px 15px;
+    color: #fff;
+    background: #1DA1F2;
+    border: 1px solid #1DA1F2;
+    border-radius: 31px;
+    transition: ease 1s;
+}
+
+
+.login_selecttw {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 0;
+    padding: 5px 15px 5px 15px;
+    color: #1DA1F2;
+    background: #fff;
+    border: 1px solid #fff;
+    border-radius: 31px;
+    transition: ease 1s;
+}
+
+.login_selectt:nth-child(1) {
+    margin-right: 10px;
+}
+
+.login_selecttw:nth-child(1) {
+    margin-right: 10px;
+}
+
+.login_optionn {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 0;
+    padding: 5px 15px 5px 15px;
+    color: #000;
+    background: #fff;
+    border: 1px solid #1DA1F2;
+    transition: ease 1s;
+}
+
+.login_optionnw {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 0;
+    padding: 5px 15px 5px 15px;
+    background: #fff;
+    border: 1px solid #fff;
+    color: #1DA1F2;
+    transition: ease 1s;
+}
+
+.login_h11 {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 42px;
+    line-height: 49px;
+    color: #000;
+    margin-left: 2%;
+    margin-bottom: 35px;
+    transition: ease 1s;
+}
+
+.login_h11w {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 42px;
+    line-height: 49px;
+    color: #fff;
+    margin-left: 2%;
+    margin-bottom: 35px;
+    transition: ease 1s;
+}
+
+.login_inputt {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    width: 670px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.6);
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-sizing: border-box;
+    border-radius: 6px;
+    margin-bottom: 25px;
+    padding: 23px 0 23px 20px;
+    transition: ease 1s;
+}
+
+.login_inputtw {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    width: 670px;
+    color: rgba(0, 0, 0, 0.6);
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-sizing: border-box;
+    border-radius: 6px;
+    margin-bottom: 25px;
+    padding: 23px 0 23px 20px;
+    transition: ease 1s;
+}
+
+.login_btnn {
+    margin: 0;
+    padding: 0;
+    width: 670px;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+    padding: 30px;
+    text-align: center;
+    color: #FFF;
+    background: #1DA1F2;
+    border: 1px solid #1DA1F2;
+    border-radius: 76px;
+    padding: 18px 0;
+    margin-bottom: 40px;
+    transition: ease 1s;
+}
+
+.login_btnnw {
+    margin: 0;
+    padding: 0;
+    width: 670px;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: #1DA1F2;
+    background: #fff;
+    border: 1px solid #fff;
+    border-radius: 76px;
+    text-decoration: none;
+    padding: 18px 0;
+    margin-bottom: 40px;
+    transition: ease 1s;
+}
+
+.login_btn_linkk {
+    color: #fff;
+    text-decoration: none;
+    padding: 18px 195px;
+}
+
+.login_btn_linkkw {
+    color: #1DA1F2;
+    text-decoration: none;
+    padding: 18px 195px;
+}
+
+.login_link_boxx {
+    margin: 0;
+    padding: 0;
+    width: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.login_linkk {
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #1DA1F2;
+    text-decoration: none;
+    margin-bottom: 30px;
+}
+
+.login_linkkw {
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #fff;
+    text-decoration: none;
+    margin-bottom: 30px;
+}
+
+.login_link_boxx_strong {
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+    color: #000;
+    transition: ease 1s;
+    margin-bottom: 10px;
+}
+
+.login_link_boxx_strongw {
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+    color: #fff;
+    transition: ease 1s;
+    margin-bottom: 10px;
+}
+
+.login_link_boxx_text {
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000;
+    transition: ease 1s;
+    margin-bottom: 20px;
+}
+
+.login_link_boxx_text:hover {
+    opacity: 0.6;
+}
+
+.login_link_boxx_textw {
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #fff;
+    transition: ease 1s;
+    margin-bottom: 20px;
+}
+
+.login_link_boxx_textw:hover {
+    opacity: 0.6;
+}
+
+.login_link_boxx_select {
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-sizing: border-box;
+    border-radius: 6px;
+    transition: ease 1s;
+    width: 312px;
+    margin-right: 18px;
+    padding: 23px 20px;
+    margin-bottom: 64px;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.6);
+    transition: ease 1s;
+}
+
+.login_link_boxx_selectw {
+    background: #1DA1F2;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-sizing: border-box;
+    border-radius: 6px;
+    transition: ease 1s;
+    width: 312px;
+    margin-right: 18px;
+    padding: 23px 20px;
+    margin-bottom: 64px;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #fff;
+    transition: ease 1s;
+}
+
+.login_link_boxx_option {
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.6);
+    transition: ease 1s;
+    padding: 23px 20px;
+}
+
+.login_link_boxx_optionw {
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #fff;
+    transition: ease 1s;
+    padding: 23px 20px;
+}
+
+.login_link_boxx_select2 {
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-sizing: border-box;
+    border-radius: 6px;
+    transition: ease 1s;
+    width: 159px;
+    padding: 23px 20px;
+    margin-bottom: 64px;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.6);
+    transition: ease 1s;
+}
+
+.login_link_boxx_select2w {
+    background: #1DA1F2;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-sizing: border-box;
+    border-radius: 6px;
+    transition: ease 1s;
+    width: 159px;
+    padding: 23px 20px;
+    margin-bottom: 64px;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #fff;
+    transition: ease 1s;
+}
+
+.login_link_boxx_select2w:nth-child(2) {
+    margin-right: 18px;
+}
+
+.login_link_boxx_select2:nth-child(2) {
+    margin-right: 18px;
+}
+
+.login_link_boxx_option2 {
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.6);
+    transition: ease 1s;
+    padding: 23px 20px;
+}
+
+.login_link_boxx_option2w {
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #fff;
+    transition: ease 1s;
+    padding: 23px 20px;
+}

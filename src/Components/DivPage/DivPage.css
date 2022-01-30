@@ -1,0 +1,217 @@
+.div_page_box {
+    margin-bottom: 160%;
+}
+
+.div_page_item {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.div_page_logo {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 51px;
+}
+
+.div_page_link {
+    margin: 0;
+    padding: 0;
+    margin-right: 20px;
+}
+
+.div_page_strong {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 0;    
+    color: #000;    
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 20px;
+    transition: ease 1s;
+}
+
+.div_page_strongw {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 0;    
+    color: #000;    
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 20px;
+    transition: ease 1s;
+}
+
+.div_page_text {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 0;
+    color: #000;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 20px;
+    transition: ease 1s;
+}
+
+.div_page_textw {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 0;
+    color: #fff;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 20px;
+    transition: ease 1s;
+}
+
+.div_page_button {
+    padding: 15px 89px;
+    background: #1D9BF0;
+    border: 2px solid #1D9BF0;
+    border-radius: 27.5px;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFF;
+    transition: ease 1s;
+}
+
+.div_page_button:hover {
+    opacity: 0.4;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.08);
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    transition: ease 1s;
+}
+
+.div_page_buttonw {
+    padding: 15px 89px;
+    background: #fff;
+    border: 2px solid #fff;
+    border-radius: 27.5px;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+    color: #1D9BF0;
+    transition: ease 1s;
+}
+
+.div_page_buttonw:hover {
+    opacity: 0.4;
+    box-shadow: 0px 10px 20px white;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    transition: ease 1s;
+}
+
+.div_page_box_profile {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.div_page_box_image {
+    margin-right: 10px;
+}
+
+.div_page_box_link {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.div_page_box_strong {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 0;
+    color: #000;
+    margin-bottom: 10px;
+    transition: ease 1s;
+}
+
+.div_page_box_strongw {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 0;
+    color: #fff;
+    margin-bottom: 10px;
+    transition: ease 1s;
+}
+
+.div_page_box_text {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 0;
+    color: #000;
+    margin-top: 10px;
+    margin-right: 42px;
+    transition: ease 1s;
+}
+
+.div_page_box_text:hover {
+    opacity: 0.6;
+    transition: ease 1s;
+}
+
+.div_page_box_textw {
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 0;
+    color: #fff;
+    margin-top: 10px;
+    margin-right: 42px;
+    transition: ease 1s;
+}
+
+.div_page_box_textw:hover {
+    opacity: 0.6;
+    color: white;
+    transition: ease 1s;
+}
